@@ -815,8 +815,8 @@ INSERT INTO city(state_id, timezone_id, name, native_name, other_name, is_countr
 INSERT INTO city(state_id, timezone_id, name, native_name, other_name, is_country_capital, phone_code) VALUES(172, 11, 'Dushanbe', NULL, NULL, 1, '372');
 INSERT INTO city(state_id, timezone_id, name, native_name, other_name, is_country_capital, phone_code) VALUES(173, 33, 'Nouakchott', NULL, NULL, 1, '');
 INSERT INTO city(state_id, timezone_id, name, native_name, other_name, is_country_capital, phone_code) VALUES(6, 4, 'Nice', NULL, NULL, 0, '4');
-INSERT INTO city(state_id, timezone_id, name, native_name, other_name, is_country_capital, phone_code) VALUES(174, 8, 'Singapore', NULL, NULL, 1, '');
-INSERT INTO city(state_id, timezone_id, name, native_name, other_name, is_country_capital, phone_code) VALUES(175, 43, 'San Salvador', NULL, NULL, 1, '');
+INSERT INTO city(state_id, timezone_id, name, native_name, other_name, is_country_capital, phone_code) VALUES(175, 8, 'Singapore', NULL, NULL, 1, '');
+INSERT INTO city(state_id, timezone_id, name, native_name, other_name, is_country_capital, phone_code) VALUES(174, 43, 'San Salvador', NULL, NULL, 1, '');
 INSERT INTO city(state_id, timezone_id, name, native_name, other_name, is_country_capital, phone_code) VALUES(35, 55, 'Samara', NULL, NULL, 0, '8462');
 INSERT INTO city(state_id, timezone_id, name, native_name, other_name, is_country_capital, phone_code) VALUES(141, 45, 'Santa Fe', NULL, NULL, 0, '505');
 INSERT INTO city(state_id, timezone_id, name, native_name, other_name, is_country_capital, phone_code) VALUES(38, 29, 'San Luis Potosi', NULL, NULL, 0, '444');

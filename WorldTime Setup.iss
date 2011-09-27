@@ -7,7 +7,7 @@
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{2F770525-535E-48F0-9B97-130621AA8A84}
 AppName=WorldTime
-AppVerName=WorldTime 0.9.9
+AppVerName=WorldTime 0.9.10
 AppPublisher=Karthik Abiraman
 AppPublisherURL=http://www.codeplex.com/worldtime/
 AppSupportURL=http://www.codeplex.com/worldtime/
@@ -15,7 +15,7 @@ AppUpdatesURL=http://www.codeplex.com/worldtime/
 DefaultDirName={pf}\WorldTime
 DefaultGroupName=WorldTime
 AllowNoIcons=yes
-OutputBaseFilename=WorldTime_0.9.9_setup
+OutputBaseFilename=WorldTime_0.9.10_setup
 Compression=lzma
 SolidCompression=yes
 
