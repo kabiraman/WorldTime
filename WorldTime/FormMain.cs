@@ -148,7 +148,7 @@ namespace WorldTime
                 
                 m_dbConnection.Open();
 
-                m_txtVersion.Text = "0.9.10";
+                m_txtVersion.Text = "0.9.11";
 
                 bool bDoMyCitiesExist = PopulateMyCities();
                 PopulateAllCities();
